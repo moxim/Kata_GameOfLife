@@ -17,5 +17,8 @@ You should write a program that can accept an arbitrary grid of cells, and will 
 
 # How to build
 
-This is a Maven project. Either your IDE will assist you, or you can issue the command 'mvn test'.
+This is a Maven project. Either your IDE will assist you, or you can issue the command `mvn package`.
 However, the implementation is up to you!
+
+# How to run
+Execute the command `java -jar target/game-of-life*.jar` or let your IDE help you run the Main class.
